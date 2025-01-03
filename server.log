@@ -1,0 +1,36 @@
+[2024-12-13T13:08:00.787Z] Received request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T13:08:00.787Z] Incoming request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T13:08:00.788Z] Blocked access to: sunbeaminfo.com
+[2024-12-13T13:08:44.406Z] Received request: Method=GET, URL=/http://sunbeaminfo.in
+[2024-12-13T13:08:44.406Z] Incoming request: Method=GET, URL=/http://sunbeaminfo.in
+[2024-12-13T13:08:44.407Z] Cache miss for URL: http://sunbeaminfo.in
+[2024-12-13T13:08:45.101Z] Response: 301 for URL=http://sunbeaminfo.in
+[2024-12-13T13:21:43.921Z] Received request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T13:21:43.932Z] Incoming request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T13:21:43.933Z] Blocked access to: sunbeaminfo.com
+[2024-12-13T13:21:58.421Z] Received request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T13:21:58.421Z] Incoming request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T13:21:58.421Z] Blocked access to: sunbeaminfo.com
+[2024-12-13T13:22:00.086Z] Received request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T13:22:00.087Z] Incoming request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T13:22:00.087Z] Blocked access to: sunbeaminfo.com
+[2024-12-13T13:22:01.857Z] Received request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T13:22:01.857Z] Incoming request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T13:22:01.858Z] Blocked access to: sunbeaminfo.com
+[2024-12-13T13:22:04.533Z] Received request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T13:22:04.534Z] Incoming request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T13:22:04.534Z] Blocked access to: sunbeaminfo.com
+[2024-12-13T17:31:33.165Z] Received request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T17:31:33.167Z] Incoming request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T17:31:33.167Z] Blocked access to: sunbeaminfo.com
+[2024-12-13T17:31:37.746Z] Received request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T17:31:37.746Z] Incoming request: Method=GET, URL=/http://sunbeaminfo.com
+[2024-12-13T17:31:37.747Z] Blocked access to: sunbeaminfo.com
+[2024-12-13T17:31:47.703Z] Received request: Method=GET, URL=/http://qwerty.com
+[2024-12-13T17:31:47.703Z] Incoming request: Method=GET, URL=/http://qwerty.com
+[2024-12-13T17:31:47.703Z] Cache miss for URL: http://qwerty.com
+[2024-12-13T17:31:50.115Z] Error fetching URL=http://qwerty.com: 
+[2024-12-13T17:32:02.860Z] Received request: Method=GET, URL=/http://qwerty
+[2024-12-13T17:32:02.860Z] Incoming request: Method=GET, URL=/http://qwerty
+[2024-12-13T17:32:02.860Z] Cache miss for URL: http://qwerty
+[2024-12-13T17:32:03.499Z] Error fetching URL=http://qwerty: 
